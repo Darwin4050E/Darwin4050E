@@ -1,4 +1,4 @@
-# ¡Hola, soy [Darwin]! 👋
+# ¡Hola, soy Darwin! 👋
 
 Bienvenido a mi repositorio personal donde comparto mis proyectos, aprendizajes y experimentos como estudiante de computación. 🚀
 
@@ -22,7 +22,7 @@ Además de programar, me gusta:
 
 Este repositorio refleja mis proyectos más destacados, experimentos y mi evolución como desarrollador.
 
-# 📚 Mis Proyectos
+## 📚 Mis Proyectos
 
 - [**Sistema de vuelos**](https://github.com/Darwin4050E/Sistema-Aeropuerto) - Aplicación de escritorio que gestiona los vuelos de una agencia de China.
 
