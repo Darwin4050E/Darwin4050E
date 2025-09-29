@@ -1,5 +1,3 @@
-![Mi Avatar] (<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/b70b32f2-2509-4fe0-8871-5e8b6c2cbb33" />)
-
 # ¡Hola, soy [Darwin]! 👋
 
 Bienvenido a mi repositorio personal donde comparto mis proyectos, aprendizajes y experimentos como estudiante de computación. 🚀
