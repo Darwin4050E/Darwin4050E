@@ -42,8 +42,8 @@ Soy estudiante de **Ingeniería en Computación** y me apasiona el desarrollo de
 
 ## 📫 Cómo contactarme
 
-- 💼 [LinkedIn](www.linkedin.com/in/darwin-diaz-gonzález)
-- ✉️ [Corrreo académico](dldiaz@espol.edu.ec)
+- 💼 [LinkedIn](https://www.linkedin.com/in/darwin-diaz-gonzález)
+- ✉️ [Corrreo académico](mailto:dldiaz@espol.edu.ec)
 
 ---
 
