@@ -1,31 +1,50 @@
-# ¡Hola, soy Darwin! 👋
+# 👨‍💻 Hola, soy Darwin.
 
-Bienvenido a mi repositorio personal donde comparto mis proyectos, aprendizajes y experimentos como estudiante de computación. 🚀
+Bienvenido a mi espacio en GitHub 🚀.
+Soy estudiante de **Ingeniería en Computación** y me apasiona el desarrollo de software, la programación y cómo la tecnología puede ayudarnos a resolver problemas reales.
 
-🌱 Actualmente estoy aprendiendo **Diseño y Desarrollo de Aplicaciones Web**.
+---
 
-## 📋 Contenido
+## 🌟 Sobre mí
 
-- [Información Personal](#sobre-mí-🧑‍💻)
-- [Mis Proyectos](#mis-proyectos-📚)
-- [Contáctame](#contáctame-📬)
+- 🎯 Intereses: Desarrollo web, aplicaciones móviles y de escritorio, ciberseguridad, análisis de datos.
+- 📚 Actualmente aprendiendo: **HTML, CSS, JavaScript, Matemáticas aplicadas a la programación**.
+- 🤝 Me gusta colaborar en proyectos académicos y personales relacionados con el diseño de interfaces y el desarrollo de software.
+- 💡 Filosofía: *“Nunca te rindas”*.
 
-## 🧑‍💻 Sobre Mí 
+---
 
-Mi nombre es Darwin Díaz González. Actualmente, estoy en quinto semestre de Ingeniería en Computación en ESPOL y resido en Guayaquil, Ecuador. Soy una persona apasionada por la tecnología, el desarrollo de software y el aprendizaje continuo. Desde que descubrí la programación, me siento fascinado por la capacidad de crear soluciones digitales.
+## 🛠️ Tecnologías y Herramientas
 
-Además de programar, me gusta:
+- **Lenguajes:** Java, Python, JavaScript, C, C++
+- **Desarrollo Web:** HTML5, CSS3, Markdown
+- **Control de versiones:** Git, GitHub
+- **Entornos de desarrollo:** NetBeans, Android Studio, VS Code
+- **Otros intereses:** Algoritmos, Estructuras de Datos, IA
 
-- Jugar videojuegos 🎮
-- Leer libros de ciencia ficción 📚
-- Aprender nuevos lenguajes de programación 🌍
+---
 
-Este repositorio refleja mis proyectos más destacados, experimentos y mi evolución como desarrollador.
+## 📂 Proyectos Destacados
 
-## 📚 Mis Proyectos
+🔹 **[Juego de Cartas Uno en Java](https://github.com/Darwin4050E/Proyecto1P.git)** – Simulación de turnos entre jugador y máquina.  
+🔹 **[Sistema para Discoteca con Phyton y SQL](https://github.com/Darwin4050E/SantaBirraDB.git)** – Gestión administrativa de la discoteca SantaBirra.  
+🔹 **[Sistema para Aeropuerto en Java](https://github.com/Darwin4050E/Sistema-Aeropuerto.git)** – Gestión de vuelos del aerupuerto Daxing, China.
 
-- [**Sistema de vuelos**](https://github.com/Darwin4050E/Sistema-Aeropuerto) - Aplicación de escritorio que gestiona los vuelos de una agencia de China.
+---
 
-## 📬 Contáctame:
+## 📈 Estadísticas en GitHub
 
-- 📧 [Correo Electrónico](dldiaz@espol.edu.ec)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Darwin4050E&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Darwin4050E&layout=compact&theme=radical)
+
+---
+
+## 📫 Cómo contactarme
+
+- 💼 [LinkedIn](www.linkedin.com/in/darwin-diaz-gonzález)
+- ✉️ [Corrreo académico](dldiaz@espol.edu.ec)
+
+---
+
+⭐️ Si te interesa colaborar conmigo, ¡no dudes en escribirme!
